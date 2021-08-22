@@ -439,6 +439,7 @@ footer .mention {
   }
   #about {
     padding: 100px 0 25px 0;
+    border: none;
   }
   #about h2 {
     padding-top: 5%;
@@ -447,6 +448,9 @@ footer .mention {
     height: auto;
   }
   .photo-container {
+    border: none;
+  }
+  #about .presentation {
     border: none;
   }
   #skills {
@@ -479,12 +483,16 @@ footer .mention {
   }
   #about {
     padding: 100px 0 25px 0;
+    border: none;
   }
   #about h2 {
     padding-top: 5%;
   }
   #about .row {
     height: auto;
+  }
+  #about .presentation {
+    border: none;
   }
   .photo-container {
     border: none;
@@ -519,12 +527,16 @@ footer .mention {
   }
   #about {
     padding: 100px 0 25px 0;
+    border: none;
   }
   #about h2 {
     padding-top: 5%;
   }
   #about .row {
     height: auto;
+  }
+  #about .presentation {
+    border: none;
   }
   .photo-container {
     border: none;
